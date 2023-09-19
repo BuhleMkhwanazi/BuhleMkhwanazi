@@ -57,7 +57,6 @@ Workflow:
   * Populate coloumns if most entries are empty such as director, cast and country
 * Check and Correct data format
 
-## Export the Data
+## Exporting the Data
 Finally, after cleaning and altering the data as needed, the data may be exported to a csv file so that you don't have to run the cells over and over again. You may accomplish this with df.to_csv(filename).
 
-## Data Visualisation
